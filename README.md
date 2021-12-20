@@ -1,8 +1,14 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi! I'm Kostas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
+<p>Before coding became my new passion, I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators that looked after a vast collection of mainly paper-based materials in one of the world's biggest archives. I left that role in 2018 to pursue a more creative path and satisfy my desire to keep learning and creating new things.
+  
+Starting in 2017, I developed a small online creative business. Being largely self-taught, I had to learn how to quickly pick up new knowledge and diligently putting it into practice. A lot of the new areas of knowledge that I had to navigate, reignited my interest in software development, so as soon as I had the opportunity to act on it, I did!
 
-Here are some ideas to get you started:
+In September 2021 I joined the Makers Academy on the 16-week full-time software development course</p>
+
+- 📫 You can reach me here: <p><a href="https://www.linkedin.com/in/kntanos/" target="_blank"><img alt='LinkedIn' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
