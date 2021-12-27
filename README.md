@@ -14,7 +14,7 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 
 ## Projects I enjoyed
 - 'Life of Bernard' - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400px">
+<img src="LoB.gif" width="400px">
 
 - 'Metabook' 
 
