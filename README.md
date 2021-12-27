@@ -1,4 +1,4 @@
-### Hi! I'm Kostas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi! I'm Kostas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### I am currently looking for my first job as a Junior Software Developer.
 
@@ -14,13 +14,18 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 
 ## Recent projects I enjoyed
 ### 'Life of Bernard' 
-Is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the <img src="mern_logo.png" width="140px"/> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
+'Life of Bernard' is a simple RPG style game that was developed within 2 weeks as a final team engineering project at [Makers](https://makers.tech). We used the <img src="mern_logo.png" width="140px"/> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
 
 <img src="LoB.gif" width="400px">
 
 See more at the project's repositories: - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
 
-- 'Metabook' 
+### 'Metabook'
+Facbook clone built with Ruby on Rails. Team engineering project - Weeks 8-9 of Makers Bootcamp.  
+
+<img src="metabook.gif" width="400px">
+
+See more [here](https://github.com/Kntanos/metabook-rails).
 
 ## In the continuous pursue of skills
 
