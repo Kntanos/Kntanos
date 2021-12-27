@@ -20,6 +20,7 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 
 See more at the project's repositories: - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
 
+------
 ### 'Metabook'
 Facbook clone built with Ruby on Rails. Team engineering project - Weeks 8-9 of Makers Bootcamp.  
 
@@ -43,17 +44,6 @@ See more [here](https://github.com/Kntanos/metabook-rails).
 
 </br>
 <p align="center">
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=kntanos&show_icons=true&theme=tokyonight" />  
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntanos&layout=compact&theme=tokyonight"/>
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=kntanos&show_icons=true&theme=dark" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntanos&layout=compact&theme=dark"/>
 </p>
-
-<!---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
