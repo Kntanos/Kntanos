@@ -14,7 +14,7 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 
 ## Projects I enjoyed
 ### 'Life of Bernard' 
-Is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the <img src="mern.png" width="140px"/> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
+Is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the <img src="mern_logo.png" width="140px"/> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
 
 <img src="LoB.gif" width="400px">
 
