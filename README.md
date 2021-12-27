@@ -13,7 +13,7 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Kostas%20N)
 
 ## Projects I enjoyed
-- '**Life of Bernard**' is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the MERN stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
+- '**Life of Bernard**' is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the <img src="mern.png" width="140px"> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
 <img src="LoB.gif" width="400px">
 
 See more at the project's repositories: - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
@@ -22,6 +22,7 @@ See more at the project's repositories: - [Back-end](https://github.com/Kntanos/
 
 ## In the continuous pursue of skills
 
+🌱 **I’m currently learning everything I can get my hands on!**
 #### I use daily: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 
 ### I have worked with:
@@ -33,9 +34,7 @@ See more at the project's repositories: - [Back-end](https://github.com/Kntanos/
  
 #### Other: ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
-
-🌱 **I’m currently learning everything I can get my hands on!**
-
+</br>
 <p align="center">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=kntanos&show_icons=true&theme=tokyonight" />  
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntanos&layout=compact&theme=tokyonight"/>
