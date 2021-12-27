@@ -13,8 +13,10 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Kostas%20N)
 
 ## Projects I enjoyed
-- 'Life of Bernard' - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
+- '**Life of Bernard**' is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the MERN stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
 <img src="LoB.gif" width="400px">
+
+See more at the project's repositories: - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
 
 - 'Metabook' 
 
