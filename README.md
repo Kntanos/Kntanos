@@ -2,7 +2,7 @@
 
 #### I am currently looking for my first job as a Junior Software Developer.
 
-Before coding, I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators at one of the world's biggest archives. I left that role in 2018 to pursue a more creative path and satisfy my desire to keep learning and creating new things, which also reignited my interest in software development, so as soon as I had the opportunity to act on it, I did! Find more details in my [CV](https://github.com/Kntanos/CV/blob/main/README.md)
+Before coding, I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators at one of the world's biggest archives. I left that role in 2018 to pursue a more creative path and satisfy my desire to keep learning and creating new things, which also reignited my interest in software development, so as soon as I had the opportunity to act on it, I did! Find more details in my [CV](https://github.com/Kntanos/CV/blob/main/README.md) ℹ️
 
 In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week full-time software development course.</p>
 
@@ -12,7 +12,7 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kntanos/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Kostas%20N)
 
-## Projects I enjoyed
+## Recent projects I enjoyed
 ### 'Life of Bernard' 
 Is a simple RPG style game that was developed within 2 weeks as our final team project at Makers. We used the <img src="mern_logo.png" width="140px"/> stack - completely new to all of us at the time - to build the game, as an opportunity to learn new technologies.
 
