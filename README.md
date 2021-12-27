@@ -20,6 +20,8 @@ In September 2021, I joined [Makers Academy](https://makers.tech) on the 16-week
 
 See more at the project's repositories: - [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) - [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
 
+The project is deployed [here](https://life-of-bernard.herokuapp.com/).
+
 ------
 ### 'Metabook'
 Facbook clone built with Ruby on Rails. Team engineering project - Weeks 8-9 of Makers Bootcamp.  
