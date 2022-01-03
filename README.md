@@ -32,7 +32,7 @@ See more in the repository [here](https://github.com/Kntanos/metabook-rails) and
 
 ## In the continuous pursue of skills
 
-🌱 **I’m currently learning everything I can get my hands on!**
+🌱 **I’m currently working my way through AWS Skill Builder**
 #### I use daily: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 
 ### I have worked with:
