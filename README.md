@@ -23,6 +23,14 @@ See more at the project's repositories: - [Back-end](https://github.com/Kntanos/
 And have fun with the game [here](https://life-of-bernard.herokuapp.com/).
 
 ------
+![prodder_16](https://user-images.githubusercontent.com/86077849/150548046-cb87bc28-4b92-4625-8171-39ffcf4a1de2.png)
+### 'Prodder'
+
+'Prodder' is a Chrome extension that can be set to prod people who spend a lot of time in front of a computer, check their posture, sit up and avoid shoulder and neck pain. It can also be customised to prod for anything else, like stretch, stand up, drink water etc. You can find it at the [Chrome Web Store]()
+
+<img width="353" alt="Screen Shot 2022-01-21 at 11 25 32 am" src="https://user-images.githubusercontent.com/86077849/150547971-ce689664-f3f7-4845-8208-e0c0101e53fb.png">
+
+------
 ### 'Metabook'
 Facbook clone built with Ruby on Rails. Team engineering project - Weeks 8-9 of Makers Bootcamp.  
 
