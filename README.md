@@ -50,7 +50,7 @@ See more in the repository [here](https://github.com/Kntanos/metabook-rails) and
 
 #### Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
  
-#### Other: ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+#### Other: ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </br>
 <p align="center">
